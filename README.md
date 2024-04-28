@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello&reversal=false"/>
-  
-</p>
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  </p>
 
 Welcome to my GitHub profile! I'm Daniel Carvalho, a passionate developer with a love for coding and a curiosity for new technologies. Currently exploring the realms of Java, JavaScript, HTML, and CSS. 🚀
 
