@@ -42,6 +42,9 @@ Feel free to reach out if you share similar interests, have project ideas, or ju
 <a target="_blank" href="https://www.linkedin.com/in/danielcarvalho01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a target="_blank" href="mailto:danielsimoescar1992@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a target="_blank" href="https://wa.me/+351917988111"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="CV_DanielCarvalho.pdf" download>
+  <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=Github&logoColor=white"/>
+ </a>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
